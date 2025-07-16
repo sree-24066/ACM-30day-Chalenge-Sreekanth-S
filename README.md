@@ -1,6 +1,7 @@
 #ACM 30-Day Challenge – Sreekanth S
 
-##About Me
+#About Me
+
 Hi! I'm Sreekanth S, a B.Tech student in Artificial Intelligence and Data Science, passionate about applying ML, data analysis, and automation to solve real-world problems.I work with tools and languages like Python, Pandas, NumPy, Matplotlib, Scikit-learn, and have a growing foundation in machine learning algorithms, basic deep learning, OCR pipelines, and Transformer-based models.
 
 ---
