@@ -175,4 +175,4 @@ This cycle focused on real-world data cleaning, feature selection, classificatio
 
 This cycle gave me hands-on experience in real-world data cleaning, modeling, and evaluation. I explored different types of machine learning tasks—regression and classification—and learned how to engineer features and tune models effectively.
 
-✅ **Ready for Cycle 2!**
+
