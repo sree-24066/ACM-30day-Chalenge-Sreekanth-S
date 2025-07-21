@@ -10,7 +10,7 @@
 
 ## Daily Summaries
 
-### Phase-1 – [Bagging and Boosting](./Phase1_ Bagging_and_Boosting.ipynb)
+### Phase-1 – [Bagging and Boosting](./Phase1_Bagging_and_Boosting.ipynb)
 
 - Loaded and explored the **Breast Cancer dataset** from Kaggle
 - Dropped `id` column and label-encoded `diagnosis` (M=1, B=0)
@@ -36,7 +36,7 @@ AdaBoost had the **best overall performance** with the **fewest false negatives*
 ---
 
 ## Files Included
-- `ACM_Cycle2_Phase1_BreastCancer_Ensemble.ipynb`
+- `Phase1_Bagging_and_Boosting.ipynb`
 
 ---
 
