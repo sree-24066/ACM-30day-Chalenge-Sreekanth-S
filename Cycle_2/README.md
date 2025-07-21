@@ -22,7 +22,7 @@
 - `AdaBoostClassifier`
 - `XGBoostClassifier`
 
-📊 **Results Summary:**
+ **Results Summary:**
 
 | Model         | Accuracy | False Negatives | False Positives |
 |---------------|----------|------------------|------------------|
@@ -30,7 +30,7 @@
 | AdaBoost      | 98.24%   | 2                | 0                |
 | XGBoost       | 95.61%   | 5                | 0                |
 
-🧠 **Insight:**  
+ **Insight:**  
 AdaBoost had the **best overall performance** with the **fewest false negatives**. All models avoided false positives, which is good for medical diagnosis.
 
 ---
