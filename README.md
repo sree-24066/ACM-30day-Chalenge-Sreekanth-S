@@ -18,6 +18,6 @@ I work with tools and languages like:
 | Cycle No. | Title                | Status         | Link                                 |
 |-----------|----------------------|----------------|--------------------------------------|
 | 1         | Clean Data Champions | ✅ Completed    | [Cycle 1](./Cycle_1_Clean_Data_Champions) |
-| 2         | Coming Soon          | ⏳ Upcoming     | -                                    |
+| 2         | Cycle_2              | ✅ Ongoing      | -                                    |
 | 3         | Coming Soon          | ⏳ Upcoming     | -                                    |
 | 4         | Coming Soon          | ⏳ Upcoming     | -                                    |
