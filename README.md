@@ -19,7 +19,7 @@ I work with tools and languages like:
 |-----------|----------------------------------------|---------------|-----------------------------------|
 | 1         | Clean Data Champions (Cycle_1)         | ✅ Completed   | [Cycle 1](./Cycle_1/README.md)    |
 | 2         | Cycle_2                                | ✅ Completed   | [Cycle 2](./Cycle_2/README.md)    |
-| 3         | Coming Soon                            | ⏳ Upcoming    | -                                 |
+| 3         | Redemption Cycle (Cycle_3)                           | ⏳ On-going    | -                                 |
 | 4         | Coming Soon                            | ⏳ Upcoming    | -                                 |
 
 ---
